@@ -1,0 +1,13 @@
+# Basic Node Site
+
+This repo is use to learn node and to practice setting up a basic node with many pages.
+
+## Ideas Practiced
+* Node.js
+* http, url, fs
+* CSS & HTML Design
+
+ ## Live Demo
+[Deployment](https://basic-node-site.scott-hall7.repl.co/)
+
+ 
