@@ -4,7 +4,8 @@ This repo is use to learn node and to practice setting up a basic node with many
 
 ## Ideas Practiced
 * Node.js
-* http, url, fs
+* Express.js
+* http, url, fs, path
 * CSS & HTML Design
 
  ## Live Demo
