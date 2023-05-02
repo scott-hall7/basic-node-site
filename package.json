@@ -1,0 +1,22 @@
+{
+  "name": "basic-node",
+  "version": "1.0.0",
+  "description": "This repo is use to learn node and to practice setting up a basic node with many pages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scott-hall7/basic-node-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scott-hall7/basic-node-site/issues"
+  },
+  "homepage": "https://github.com/scott-hall7/basic-node-site#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
